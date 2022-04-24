@@ -1,2 +1,2 @@
-# sudoko-solver
+# sudoku-solver
  sudoku
